@@ -50,5 +50,23 @@ There is several online appointment scheduling tools in the marketplace, some of
 
 .Assign managers to clinics
 
+**Technologies used:** 
+
+-HTML 5 
+
+-CSS3 
+
+-PHP 
+
+-JavaScript 
+
+**Software Requirement:** 
+
+-Php server like (XAMPP, WAMP) etc. 
+
+-MySQL for database 
+
+-Web Browser supporting HTML5 : Google Chrome(recommended)
+
 
 
