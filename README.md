@@ -1,4 +1,10 @@
-﻿# Online-Appointment-Booking-System
+**Project Title**
+#Group Information -
+**Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] 
+**Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] - 
+**Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+ 
+ # Online-Appointment-Booking-System
  
  This is an online system that helps patients book doctor appointments easily without coming to the hospital and waiting in long queues.Patients can book, cancel, and check their appointments from home.Clinic staff and admins can manage doctors, clinics, and appointments through the system.
 
@@ -67,6 +73,11 @@ There is several online appointment scheduling tools in the marketplace, some of
 -MySQL for database 
 
 -Web Browser supporting HTML5 : Google Chrome(recommended)
+
+## Individual Contributions 
+### [Student 1 Name] - Repository setup and configuration - GitHub Actions CI/CD pipeline implementation - Deployment setup and management - [List specific commits/features] 
+### [Student 2 Name] - [List specific features developed] - [List specific commits/contributions] 
+### [Student 3 Name] - [List specific features developed] - [List specific commits/contributions]
 
 
 
