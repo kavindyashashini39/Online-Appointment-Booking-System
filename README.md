@@ -16,8 +16,39 @@ Online appointment scheduling system is a system through which a user or simply,
 
 There is several online appointment scheduling tools in the marketplace, some of which are feature-loaded, easy to setup and cheap. For doctors, online appointment scheduling brings a lot of value add services and benefits, like engaging the patient, making the patient feel appreciated, and being able to store patients’ data securely for future reference. But the most wonderful and useful advantage is that online appointment scheduling is amazingly low cost. 
 
-**Product Functions** 
+**System Users**
 
-Online appointment system with the key features listed 
+1️⃣ Patient
+
+.Create an account
+
+.Book appointments
+
+.Cancel appointments
+
+.See booking status
+
+.Check doctor availability
+
+ Search doctors and clinics
+
+2️⃣ Manager
+
+.View appointment list
+
+.Update appointment status
+
+3️⃣ Admin
+
+.Add doctors, clinics, and managers
+
+.Delete doctors, clinics, and managers
+
+.View all doctors, clinics, and managers
+
+.Assign doctors to clinics
+
+.Assign managers to clinics
+
 
 
