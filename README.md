@@ -1,8 +1,12 @@
 **Project Title**
-#Group Information -
-**Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] 
-**Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name] - 
-**Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+
+**Group  Information**
+
+**Student 1:** [N.A.A Shashini Kavindaya] - [ITBNM-2313-0039] - Role: [DevOps / Release Manager] 
+
+**Student 2:** [I.M Kalani Mekhala] - [ITBNM-2313-0049] - Role: [Frontend Development (Frontend Developer)] 
+
+**Student 3:** [B.A.Kawya Parami Bogoda] - [ITBIN-2313-0016] - Role: [Backend Development (Backend Developer)]
  
  # Online-Appointment-Booking-System
  
@@ -78,6 +82,7 @@ There is several online appointment scheduling tools in the marketplace, some of
 ### [Student 1 Name] - Repository setup and configuration - GitHub Actions CI/CD pipeline implementation - Deployment setup and management - [List specific commits/features] 
 ### [Student 2 Name] - [List specific features developed] - [List specific commits/contributions] 
 ### [Student 3 Name] - [List specific features developed] - [List specific commits/contributions]
+
 
 
 
