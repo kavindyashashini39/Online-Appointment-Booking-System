@@ -78,10 +78,6 @@ There is several online appointment scheduling tools in the marketplace, some of
 
 -Web Browser supporting HTML5 : Google Chrome(recommended)
 
-## Individual Contributions 
-### [Student 1 Name] - Repository setup and configuration - GitHub Actions CI/CD pipeline implementation - Deployment setup and management - [List specific commits/features] 
-### [Student 2 Name] - [List specific features developed] - [List specific commits/contributions] 
-### [Student 3 Name] - [List specific features developed] - [List specific commits/contributions]
 
 
 
